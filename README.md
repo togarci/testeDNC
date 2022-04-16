@@ -30,3 +30,8 @@ Para realizar a Instalação das bibliotecas necessárias execute o seguinte com
 
 Para execução do serviço utilize o seguinte comando na raiz do projeto:
 `python3.6 main.py runserver`
+
+<br/><br/>
+# MER
+
+![Demonstracao1](/assets/Lógico_1.png)
