@@ -1,0 +1,12 @@
+Flask==1.1.2
+Flask-SQLAlchemy==2.4.4
+Flask-Migrate==2.7.0
+Flask-JWT==0.3.2
+Flask-Cors==3.0.10
+SQLAlchemy==1.3.19
+virtualenv==20.0.27
+virtualenv-clone==0.5.4
+Werkzeug==1.0.1
+gunicorn==20.0.4
+python-dateutil
+bson
